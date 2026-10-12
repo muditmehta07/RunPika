@@ -7,7 +7,8 @@ It is a GNOME Shell Extension, where the speed of the Pikachu running in your ta
 >[!TIP]
 > You need to have `Linux` + `GNOME Desktop` for this extension.
 
-[RunPika | GNOME Shell Extensions Website](https://extensions.gnome.org/extension/9833/runpika)
+The following is the link for the extension, also available via the Gnome Extensions App.
+[RunPika - GNOME Shell Extensions Website](https://extensions.gnome.org/extension/9833/runpika)
 
 ## Thanks
 
